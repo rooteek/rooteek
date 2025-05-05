@@ -13,7 +13,7 @@
 
 💬 I'm comfortable discussing topics like JavaScript, React, Node.js, Vue, and general web development
 
-📫 You can reach me at: your_email@example.com
+📫 You can reach me at: rutikrathod125@gmail.com
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
