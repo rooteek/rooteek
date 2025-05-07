@@ -1,5 +1,5 @@
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAC&width=435&lines=Hi+I'm+rut!k;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFC0CB&width=435&lines=Hi+I'm+rut!k;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rooteek&show_icons=true&theme=default)
