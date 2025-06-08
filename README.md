@@ -1,5 +1,5 @@
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C9A9A6&width=435&lines=Hi+I'm+rut!k;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C11C84&width=435&lines=Hi+I'm+rut!k;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
