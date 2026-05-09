@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="tel:+9054015603">📞 +9054015603</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:rutikrathod125@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a target="_blank" rel="noopener noreferrer">📧 rutikrathod125@gmail.com</a> &nbsp;&bull;&nbsp;
   <a href="https://root-user.vercel.app" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
   📍 Surat, India
 </p>
