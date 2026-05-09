@@ -1,115 +1,34 @@
-<h1 align="left">RUTIK RATHOD</h1>
-<h3 align="left">Full Stack Developer</h3>
+# RUTIK RATHOD
+### Full Stack Developer | TypeScript • Node.js • React • Vue.js
 
-<p>
-📞 +9054015603 &nbsp;&nbsp;
-📧 rutikrathod125@gmail.com &nbsp;&nbsp;
-🔗 <a href="https://github.com/rooteek">github.com/rooteek</a> &nbsp;&nbsp;
-🌐 <a href="https://root-user.vercel.app">Portfolio</a> &nbsp;&nbsp;
-📍 Surat
+<p align="left">
+  <a href="tel:+9054015603">📞 +9054015603</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:rutikrathod125@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a> &nbsp;&bull;&nbsp;
+  <a href="https://root-user.vercel.app" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
+  📍 Surat, India
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## SUMMARY
-I am a passionate Full Stack Web Developer with hands-on experience in building dynamic, responsive, and user-friendly web applications. Proficient in both frontend and backend technologies, I specialize in React.js, Vue.js, TypeScript, and Node.js for developing modern, scalable, and secure web solutions.
+## 🚀 About Me
+I am a Full Stack Developer dedicated to building high-performance, scalable web applications. I specialize in modern JavaScript ecosystems and robust backend architectures, turning complex problems into elegant, user-centric solutions.
 
 ---
 
-## EXPERIENCE
+## 🛠️ Tech Stack
 
-### Pixel Eyez  
-**Vue.js, Node.js (Full Stack Developer)**  
-📅 09/2024 - Present | 📍 Surat  
-
-- Contributing to both frontend and backend development with focus on performance, security, and scalability  
-- Building responsive UI using Vue.js, Vuex, TypeScript, Material UI  
-- Developing backend services with Node.js, Express.js, REST APIs  
-- Managing databases: MongoDB, PostgreSQL, Prisma ORM  
-- Implementing authentication and role-based access control  
-- Improving skills in TypeScript, API integration, and optimization  
+| Category | Badges |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vue.js&logoColor=black) |
 
 ---
 
-### Silico Software Solutions  
-**ReactJS Trainee**  
-📅 06/2024 - 08/2024 | 📍 Surat  
+## 📂 Featured Projects
 
-- Learned React.js and component-based architecture  
-- Built responsive UI using Tailwind CSS  
-- Used Redux for state management  
-- Performed API integration  
-
----
-
-### NJ Group (STEP)  
-**Full Stack Java Developer**  
-📅 08/2023 - 04/2024 | 📍 Surat  
-
-- Learned Java, MVC architecture, and RDBMS  
-- Built full-stack applications  
-- Worked on real-world projects  
-
-</td>
-
-<td width="35%" valign="top">
-
-## SKILLS
-
-### 🔹 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-
----
-
-### 🔹 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
----
-
-### 🔹 Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
----
-
-### 🔹 Tools & Others  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Vuex](https://img.shields.io/badge/Vuex-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vue.js&logoColor=black)
-
----
-
-## MY PROJECTS
-
-### 🔗 Inventory Management (JSP)  
-https://github.com/rooteek/Inventory_management_system  
-
-### 🔗 SelfGow: Task Manager  
-https://task-manager-gilt-kappa.vercel.app  
-
-### 🔗 IT Resource Platform  
-https://it-source.vercel.app  
-
-### 🔗 Free UI Component  
-https://free-components-iota.vercel.app  
-
-</td>
-</tr>
-</table>
+*   **[SelfGow: Task Manager](https://task-manager-gilt-kappa.vercel.app)** – A productivity suite focused on sleek UI and efficient state management.
+*   **[IT Resource Platform](https://it-source.vercel.app)** – A centralized hub for technical resources.
+*   **[Free UI Components](https://free-components-iota.vercel.app)** – A library of reusable, accessible components.
+*   **[Inventory System](https://github.com/rooteek/Inventory_management_system)** – A full-stack JSP application for real-time stock tracking.
