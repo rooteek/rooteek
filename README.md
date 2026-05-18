@@ -1,20 +1,6 @@
 # RUTIK RATHOD
 ### Full Stack Developer | TypeScript • Node.js • React • Vue.js
 
-<p align="left">
-  <a href="tel:+9054015603">📞 +9054015603</a> &nbsp;&bull;&nbsp;
-  <a target="_blank" rel="noopener noreferrer">📧 rutikrathod125@gmail.com</a> &nbsp;&bull;&nbsp;
-  <a href="https://root-user.vercel.app" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
-  📍 Surat, India
-</p>
-
----
-
-## 🚀 About Me
-I am a Full Stack Developer dedicated to building high-performance, scalable web applications. I specialize in modern JavaScript ecosystems and robust backend architectures, turning complex problems into elegant, user-centric solutions.
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Badges |
